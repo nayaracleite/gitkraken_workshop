@@ -1,4 +1,6 @@
-gitkraken_workshop
+# gitkraken_workshop
+A hands-on workshop to demostrate using Gitkraken as a GUI client
+
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
 classes. We will have this written in both R and Python. 
